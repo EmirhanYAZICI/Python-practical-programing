@@ -7,7 +7,7 @@ A collection of small, practical Python projects and data analysis exercises kep
 | # | Project | Description |
 | :--- | :--- | :--- |
 | 01 | [01-deprem-haritasi](./01-deprem-haritasi) | - |
-| 02 | [02-kalp-krizi-riski-hesapmla](./02-kalp-krizi-riski-hesapmla) | - |
+| 02 | [02-kalp-krizi-riski-hesaplama](./02-kalp-krizi-riski-hesaplama) | - |
 
 ## Structure
 
@@ -17,7 +17,7 @@ Python-practical-programming/
 │   ├── Deprem_haritasi.html
 │   ├── deprem.py
 │   └── deprem.xlsx
-├── 02-kalp-krizi-riski-hesapmla/
+├── 02-kalp-krizi-riski-hesaplama/
 │   ├── 3model1.py
 │   └── heart.csv
 └── README.md
