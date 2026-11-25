@@ -4,25 +4,29 @@ A collection of small, practical Python projects and data analysis exercises kep
 
 ## Projects
 
-| # | Project | Description | Tools |
-| :--- | :--- | :--- | :--- |
-| 01 | [01-deprem-haritasi](./01-deprem-haritasi) | Earthquake dataset cleaning and interactive map visualization | pandas, folium |
+| # | Project | Description |
+| :--- | :--- | :--- |
+| 01 | [01-deprem-haritasi](./01-deprem-haritasi) | - |
+| 02 | [02-kalp-krizi-riski-hesapmla](./02-kalp-krizi-riski-hesapmla) | - |
 
 ## Structure
 
 ```text
 Python-practical-programming/
 ├── 01-deprem-haritasi/
+│   ├── Deprem_haritasi.html
+│   ├── Python-Pratical-projects
 │   ├── deprem.py
-│   ├── deprem.xlsx
-│   └── Deprem_haritasi.html
+│   └── deprem.xlsx
+├── 02-kalp-krizi-riski-hesapmla/
+│   ├── 3model1.py
+│   └── heart.csv
 └── README.md
 ```
 
 ## Usage
 
 ```bash
-git clone https://github.com/EmirhanYAZICI/Python-practical-programming.git
-cd Python-practical-programming/01-deprem-haritasi
-python deprem.py
+git clone [https://github.com/EmirhanYAZICI/Python-practical-programming.git](https://github.com/EmirhanYAZICI/Python-practical-programming.git)
+cd Python-practical-programming
 ```
