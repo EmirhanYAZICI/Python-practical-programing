@@ -15,7 +15,6 @@ A collection of small, practical Python projects and data analysis exercises kep
 Python-practical-programming/
 ├── 01-deprem-haritasi/
 │   ├── Deprem_haritasi.html
-│   ├── Python-Pratical-projects
 │   ├── deprem.py
 │   └── deprem.xlsx
 ├── 02-kalp-krizi-riski-hesapmla/
