@@ -8,6 +8,7 @@ A collection of small, practical Python projects and data analysis exercises kep
 | :--- | :--- | :--- |
 | 01 | [01-deprem-haritasi](./01-deprem-haritasi) | - |
 | 02 | [02-kalp-krizi-riski-hesaplama](./02-kalp-krizi-riski-hesaplama) | - |
+| 03 | [03-whatsapdan-hareket-algılama-uygulaması](./03-whatsapdan-hareket-algılama-uygulaması) | - |
 
 ## Structure
 
@@ -20,6 +21,8 @@ Python-practical-programming/
 ├── 02-kalp-krizi-riski-hesaplama/
 │   ├── 3model1.py
 │   └── heart.csv
+├── 03-whatsapdan-hareket-algılama-uygulaması/
+│   └── hareketsensoru.py
 └── README.md
 ```
 
